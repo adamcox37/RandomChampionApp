@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomChampionLibrary", "RandomChampionLibrary\RandomChampionLibrary.csproj", "{43205979-7822-4381-BCD1-4246C1D683B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RandomChampionUI", "RandomChampionUI\RandomChampionUI.csproj", "{B78E12D3-2CBA-4040-A8F6-7C7A11759D55}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43205979-7822-4381-BCD1-4246C1D683B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43205979-7822-4381-BCD1-4246C1D683B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43205979-7822-4381-BCD1-4246C1D683B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43205979-7822-4381-BCD1-4246C1D683B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B78E12D3-2CBA-4040-A8F6-7C7A11759D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B78E12D3-2CBA-4040-A8F6-7C7A11759D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B78E12D3-2CBA-4040-A8F6-7C7A11759D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B78E12D3-2CBA-4040-A8F6-7C7A11759D55}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0D46D5D8-47B3-4E0C-8E48-7DB916BC8136}
+	EndGlobalSection
+EndGlobal
